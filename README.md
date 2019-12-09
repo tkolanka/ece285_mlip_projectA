@@ -15,3 +15,6 @@ This project does not require any special packages in addition to the ones alrea
 4. numpy
 5. collections
 6. matplotlib
+
+### Code Organization:
+
