@@ -4,7 +4,7 @@ This file contains the class definitions for the basic modules that will be util
 
 import torch
 import torch.nn as nn
-from torchvision.models import resnet152, vgg19, resnet50
+from torchvision.models import resnet152, vgg19, resnet50, resnet101
 import random
 
 class Encoder(nn.Module):
@@ -14,7 +14,7 @@ class Encoder(nn.Module):
     so as to focus on parts of image and sub-select features.
     
     Arguments:
-        network (str): Network to be used as the encoder. Options = 'vgg19', 'resnet152' or 'resnet50'. Default = 'vgg19'
+        network (str): Network to be used as the encoder. Options = 'vgg19', 'resnet152', 'resnet50' or 'resnet101'. Default = 'vgg19'
     '''
     
     def __init__(self, network='vgg19'):
@@ -27,6 +27,11 @@ class Encoder(nn.Module):
             self.dim = 2048
         elif network == 'resnet50':
             self.net = resnet50(pretrained=True)
+            # Remove linear and pool layers as classification is not being performed
+            self.net = nn.Sequential(*list(self.net.children())[:-2])
+            self.dim = 2048
+        elif network == 'resnet101':
+            self.net = resnet101(pretrained=True)
             # Remove linear and pool layers as classification is not being performed
             self.net = nn.Sequential(*list(self.net.children())[:-2])
             self.dim = 2048
