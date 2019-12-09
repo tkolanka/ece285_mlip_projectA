@@ -1,0 +1,807 @@
+Train Batch: [0/12935]	Loss 9.8371 (9.8371)	Top 1 Accuracy 0.000 (0.000)	Top 5 Accuracy 0.128 (0.128)
+Batch Using Teacher Forcing: False
+Train Batch: [100/12935]	Loss 1.7823 (2.7185)	Top 1 Accuracy 81.250 (75.999)	Top 5 Accuracy 84.885 (80.089)
+Batch Using Teacher Forcing: True
+Train Batch: [200/12935]	Loss 1.7298 (2.2669)	Top 1 Accuracy 82.653 (78.505)	Top 5 Accuracy 85.714 (82.591)
+Batch Using Teacher Forcing: True
+Train Batch: [300/12935]	Loss 1.6767 (2.1082)	Top 1 Accuracy 82.844 (79.378)	Top 5 Accuracy 85.778 (83.556)
+Batch Using Teacher Forcing: True
+Train Batch: [400/12935]	Loss 1.7992 (2.0260)	Top 1 Accuracy 81.314 (79.798)	Top 5 Accuracy 85.140 (84.093)
+Batch Using Teacher Forcing: True
+Train Batch: [500/12935]	Loss 1.6146 (1.9625)	Top 1 Accuracy 84.056 (80.234)	Top 5 Accuracy 87.309 (84.551)
+Batch Using Teacher Forcing: True
+Train Batch: [600/12935]	Loss 1.8668 (1.9191)	Top 1 Accuracy 78.954 (80.483)	Top 5 Accuracy 84.885 (84.878)
+Batch Using Teacher Forcing: False
+Train Batch: [700/12935]	Loss 1.6073 (1.8847)	Top 1 Accuracy 83.227 (80.693)	Top 5 Accuracy 87.054 (85.149)
+Batch Using Teacher Forcing: True
+Train Batch: [800/12935]	Loss 1.5765 (1.8545)	Top 1 Accuracy 83.355 (80.893)	Top 5 Accuracy 88.010 (85.403)
+Batch Using Teacher Forcing: True
+Train Batch: [900/12935]	Loss 1.5667 (1.8303)	Top 1 Accuracy 83.992 (81.026)	Top 5 Accuracy 88.776 (85.602)
+Batch Using Teacher Forcing: True
+Train Batch: [1000/12935]	Loss 1.7137 (1.8106)	Top 1 Accuracy 79.847 (81.127)	Top 5 Accuracy 85.778 (85.762)
+Batch Using Teacher Forcing: False
+Train Batch: [1100/12935]	Loss 1.8222 (1.7926)	Top 1 Accuracy 80.038 (81.220)	Top 5 Accuracy 85.140 (85.920)
+Batch Using Teacher Forcing: False
+Train Batch: [1200/12935]	Loss 1.6944 (1.7780)	Top 1 Accuracy 80.166 (81.289)	Top 5 Accuracy 85.842 (86.039)
+Batch Using Teacher Forcing: False
+Train Batch: [1300/12935]	Loss 1.4443 (1.7667)	Top 1 Accuracy 85.523 (81.334)	Top 5 Accuracy 90.179 (86.134)
+Batch Using Teacher Forcing: True
+Train Batch: [1400/12935]	Loss 1.7527 (1.7537)	Top 1 Accuracy 79.337 (81.413)	Top 5 Accuracy 86.033 (86.251)
+Batch Using Teacher Forcing: False
+Train Batch: [1500/12935]	Loss 1.6167 (1.7423)	Top 1 Accuracy 81.888 (81.479)	Top 5 Accuracy 87.946 (86.362)
+Batch Using Teacher Forcing: False
+Train Batch: [1600/12935]	Loss 1.4685 (1.7327)	Top 1 Accuracy 84.247 (81.533)	Top 5 Accuracy 88.712 (86.453)
+Batch Using Teacher Forcing: True
+Train Batch: [1700/12935]	Loss 1.7205 (1.7242)	Top 1 Accuracy 79.719 (81.586)	Top 5 Accuracy 85.778 (86.536)
+Batch Using Teacher Forcing: False
+Train Batch: [1800/12935]	Loss 1.6759 (1.7162)	Top 1 Accuracy 80.166 (81.627)	Top 5 Accuracy 86.990 (86.613)
+Batch Using Teacher Forcing: False
+Train Batch: [1900/12935]	Loss 1.4125 (1.7086)	Top 1 Accuracy 85.140 (81.676)	Top 5 Accuracy 90.306 (86.688)
+Batch Using Teacher Forcing: True
+Train Batch: [2000/12935]	Loss 1.4675 (1.7005)	Top 1 Accuracy 84.630 (81.733)	Top 5 Accuracy 88.967 (86.769)
+Batch Using Teacher Forcing: True
+Train Batch: [2100/12935]	Loss 1.3245 (1.6938)	Top 1 Accuracy 86.607 (81.772)	Top 5 Accuracy 90.434 (86.829)
+Batch Using Teacher Forcing: True
+Train Batch: [2200/12935]	Loss 1.8187 (1.6876)	Top 1 Accuracy 78.763 (81.814)	Top 5 Accuracy 85.204 (86.892)
+Batch Using Teacher Forcing: False
+Train Batch: [2300/12935]	Loss 1.6189 (1.6823)	Top 1 Accuracy 81.186 (81.837)	Top 5 Accuracy 87.245 (86.939)
+Batch Using Teacher Forcing: False
+Train Batch: [2400/12935]	Loss 1.6515 (1.6764)	Top 1 Accuracy 81.314 (81.881)	Top 5 Accuracy 86.607 (86.999)
+Batch Using Teacher Forcing: False
+Train Batch: [2500/12935]	Loss 1.6779 (1.6704)	Top 1 Accuracy 80.102 (81.928)	Top 5 Accuracy 85.778 (87.063)
+Batch Using Teacher Forcing: False
+Train Batch: [2600/12935]	Loss 1.4507 (1.6657)	Top 1 Accuracy 83.036 (81.956)	Top 5 Accuracy 90.115 (87.111)
+Batch Using Teacher Forcing: True
+Train Batch: [2700/12935]	Loss 1.6461 (1.6615)	Top 1 Accuracy 80.357 (81.977)	Top 5 Accuracy 86.033 (87.153)
+Batch Using Teacher Forcing: False
+Train Batch: [2800/12935]	Loss 1.3861 (1.6579)	Top 1 Accuracy 84.821 (81.992)	Top 5 Accuracy 90.179 (87.186)
+Batch Using Teacher Forcing: True
+Train Batch: [2900/12935]	Loss 1.5999 (1.6534)	Top 1 Accuracy 81.059 (82.020)	Top 5 Accuracy 87.054 (87.230)
+Batch Using Teacher Forcing: False
+Train Batch: [3000/12935]	Loss 1.6314 (1.6487)	Top 1 Accuracy 81.186 (82.056)	Top 5 Accuracy 87.117 (87.278)
+Batch Using Teacher Forcing: False
+Train Batch: [3100/12935]	Loss 1.2598 (1.6442)	Top 1 Accuracy 86.735 (82.092)	Top 5 Accuracy 92.028 (87.326)
+Batch Using Teacher Forcing: True
+Train Batch: [3200/12935]	Loss 1.6869 (1.6410)	Top 1 Accuracy 79.847 (82.108)	Top 5 Accuracy 85.587 (87.357)
+Batch Using Teacher Forcing: False
+Train Batch: [3300/12935]	Loss 1.3182 (1.6370)	Top 1 Accuracy 85.587 (82.138)	Top 5 Accuracy 92.028 (87.400)
+Batch Using Teacher Forcing: True
+Train Batch: [3400/12935]	Loss 1.9419 (1.6338)	Top 1 Accuracy 77.615 (82.159)	Top 5 Accuracy 83.992 (87.433)
+Batch Using Teacher Forcing: False
+Train Batch: [3500/12935]	Loss 1.3901 (1.6307)	Top 1 Accuracy 85.651 (82.176)	Top 5 Accuracy 90.625 (87.463)
+Batch Using Teacher Forcing: True
+Train Batch: [3600/12935]	Loss 1.2510 (1.6275)	Top 1 Accuracy 86.926 (82.199)	Top 5 Accuracy 92.538 (87.497)
+Batch Using Teacher Forcing: True
+Train Batch: [3700/12935]	Loss 1.5558 (1.6248)	Top 1 Accuracy 81.378 (82.215)	Top 5 Accuracy 87.755 (87.524)
+Batch Using Teacher Forcing: False
+Train Batch: [3800/12935]	Loss 1.3741 (1.6212)	Top 1 Accuracy 86.288 (82.245)	Top 5 Accuracy 90.561 (87.566)
+Batch Using Teacher Forcing: True
+Train Batch: [3900/12935]	Loss 1.6276 (1.6191)	Top 1 Accuracy 80.038 (82.251)	Top 5 Accuracy 87.436 (87.585)
+Batch Using Teacher Forcing: False
+Train Batch: [4000/12935]	Loss 1.7120 (1.6168)	Top 1 Accuracy 79.974 (82.264)	Top 5 Accuracy 86.097 (87.609)
+Batch Using Teacher Forcing: False
+Train Batch: [4100/12935]	Loss 1.3463 (1.6147)	Top 1 Accuracy 85.204 (82.270)	Top 5 Accuracy 91.008 (87.628)
+Batch Using Teacher Forcing: True
+Train Batch: [4200/12935]	Loss 1.6247 (1.6125)	Top 1 Accuracy 80.548 (82.281)	Top 5 Accuracy 86.798 (87.651)
+Batch Using Teacher Forcing: False
+Train Batch: [4300/12935]	Loss 1.7628 (1.6111)	Top 1 Accuracy 78.508 (82.281)	Top 5 Accuracy 85.969 (87.661)
+Batch Using Teacher Forcing: False
+Train Batch: [4400/12935]	Loss 1.5774 (1.6098)	Top 1 Accuracy 82.398 (82.279)	Top 5 Accuracy 87.628 (87.672)
+Batch Using Teacher Forcing: False
+Train Batch: [4500/12935]	Loss 1.6775 (1.6075)	Top 1 Accuracy 80.485 (82.296)	Top 5 Accuracy 86.862 (87.696)
+Batch Using Teacher Forcing: False
+Train Batch: [4600/12935]	Loss 1.7717 (1.6056)	Top 1 Accuracy 80.230 (82.306)	Top 5 Accuracy 85.969 (87.714)
+Batch Using Teacher Forcing: False
+Train Batch: [4700/12935]	Loss 1.5542 (1.6031)	Top 1 Accuracy 81.633 (82.327)	Top 5 Accuracy 87.372 (87.743)
+Batch Using Teacher Forcing: False
+Train Batch: [4800/12935]	Loss 1.2875 (1.6006)	Top 1 Accuracy 86.288 (82.348)	Top 5 Accuracy 91.390 (87.771)
+Batch Using Teacher Forcing: True
+Train Batch: [4900/12935]	Loss 1.3994 (1.5991)	Top 1 Accuracy 84.949 (82.355)	Top 5 Accuracy 89.987 (87.787)
+Batch Using Teacher Forcing: True
+Train Batch: [5000/12935]	Loss 1.6167 (1.5964)	Top 1 Accuracy 80.995 (82.382)	Top 5 Accuracy 86.862 (87.819)
+Batch Using Teacher Forcing: False
+Train Batch: [5100/12935]	Loss 1.6129 (1.5950)	Top 1 Accuracy 80.867 (82.386)	Top 5 Accuracy 87.309 (87.830)
+Batch Using Teacher Forcing: False
+Train Batch: [5200/12935]	Loss 1.3173 (1.5927)	Top 1 Accuracy 86.033 (82.408)	Top 5 Accuracy 91.709 (87.859)
+Batch Using Teacher Forcing: True
+Train Batch: [5300/12935]	Loss 1.3949 (1.5908)	Top 1 Accuracy 85.969 (82.419)	Top 5 Accuracy 91.008 (87.876)
+Batch Using Teacher Forcing: True
+Train Batch: [5400/12935]	Loss 1.7744 (1.5889)	Top 1 Accuracy 79.592 (82.434)	Top 5 Accuracy 84.630 (87.897)
+Batch Using Teacher Forcing: False
+Train Batch: [5500/12935]	Loss 1.3128 (1.5869)	Top 1 Accuracy 86.607 (82.450)	Top 5 Accuracy 92.347 (87.920)
+Batch Using Teacher Forcing: True
+Train Batch: [5600/12935]	Loss 1.3714 (1.5854)	Top 1 Accuracy 84.821 (82.461)	Top 5 Accuracy 91.327 (87.936)
+Batch Using Teacher Forcing: True
+Train Batch: [5700/12935]	Loss 1.5994 (1.5840)	Top 1 Accuracy 80.612 (82.469)	Top 5 Accuracy 86.798 (87.951)
+Batch Using Teacher Forcing: False
+Train Batch: [5800/12935]	Loss 1.6109 (1.5817)	Top 1 Accuracy 81.186 (82.491)	Top 5 Accuracy 87.691 (87.978)
+Batch Using Teacher Forcing: False
+Train Batch: [5900/12935]	Loss 1.5756 (1.5803)	Top 1 Accuracy 81.760 (82.499)	Top 5 Accuracy 87.500 (87.992)
+Batch Using Teacher Forcing: False
+Train Batch: [6000/12935]	Loss 1.2790 (1.5787)	Top 1 Accuracy 86.926 (82.510)	Top 5 Accuracy 91.901 (88.008)
+Batch Using Teacher Forcing: True
+Train Batch: [6100/12935]	Loss 1.6242 (1.5773)	Top 1 Accuracy 79.974 (82.521)	Top 5 Accuracy 86.033 (88.024)
+Batch Using Teacher Forcing: False
+Train Batch: [6200/12935]	Loss 1.2444 (1.5762)	Top 1 Accuracy 86.543 (82.523)	Top 5 Accuracy 92.283 (88.035)
+Batch Using Teacher Forcing: True
+Train Batch: [6300/12935]	Loss 1.7181 (1.5752)	Top 1 Accuracy 79.592 (82.525)	Top 5 Accuracy 85.778 (88.044)
+Batch Using Teacher Forcing: False
+Train Batch: [6400/12935]	Loss 1.2774 (1.5735)	Top 1 Accuracy 87.181 (82.539)	Top 5 Accuracy 91.837 (88.063)
+Batch Using Teacher Forcing: True
+Train Batch: [6500/12935]	Loss 1.5213 (1.5724)	Top 1 Accuracy 81.760 (82.545)	Top 5 Accuracy 88.265 (88.074)
+Batch Using Teacher Forcing: False
+Train Batch: [6600/12935]	Loss 1.3210 (1.5720)	Top 1 Accuracy 86.161 (82.540)	Top 5 Accuracy 91.582 (88.076)
+Batch Using Teacher Forcing: True
+Train Batch: [6700/12935]	Loss 1.3500 (1.5699)	Top 1 Accuracy 85.651 (82.560)	Top 5 Accuracy 91.135 (88.100)
+Batch Using Teacher Forcing: True
+Train Batch: [6800/12935]	Loss 1.6599 (1.5685)	Top 1 Accuracy 80.421 (82.571)	Top 5 Accuracy 85.714 (88.116)
+Batch Using Teacher Forcing: False
+Train Batch: [6900/12935]	Loss 1.2499 (1.5668)	Top 1 Accuracy 86.671 (82.587)	Top 5 Accuracy 92.474 (88.137)
+Batch Using Teacher Forcing: True
+Train Batch: [7000/12935]	Loss 1.2143 (1.5658)	Top 1 Accuracy 86.990 (82.591)	Top 5 Accuracy 92.985 (88.147)
+Batch Using Teacher Forcing: True
+Train Batch: [7100/12935]	Loss 1.2543 (1.5642)	Top 1 Accuracy 86.671 (82.606)	Top 5 Accuracy 92.474 (88.166)
+Batch Using Teacher Forcing: True
+Train Batch: [7200/12935]	Loss 1.2897 (1.5627)	Top 1 Accuracy 86.416 (82.620)	Top 5 Accuracy 91.327 (88.182)
+Batch Using Teacher Forcing: True
+Train Batch: [7300/12935]	Loss 1.2690 (1.5618)	Top 1 Accuracy 88.010 (82.626)	Top 5 Accuracy 92.092 (88.193)
+Batch Using Teacher Forcing: True
+Train Batch: [7400/12935]	Loss 1.6110 (1.5605)	Top 1 Accuracy 80.867 (82.637)	Top 5 Accuracy 87.309 (88.207)
+Batch Using Teacher Forcing: False
+Train Batch: [7500/12935]	Loss 1.5519 (1.5596)	Top 1 Accuracy 81.696 (82.644)	Top 5 Accuracy 88.074 (88.218)
+Batch Using Teacher Forcing: False
+Train Batch: [7600/12935]	Loss 1.2483 (1.5585)	Top 1 Accuracy 86.416 (82.652)	Top 5 Accuracy 92.283 (88.231)
+Batch Using Teacher Forcing: True
+Train Batch: [7700/12935]	Loss 1.2850 (1.5575)	Top 1 Accuracy 86.352 (82.659)	Top 5 Accuracy 91.582 (88.243)
+Batch Using Teacher Forcing: True
+Train Batch: [7800/12935]	Loss 1.7162 (1.5565)	Top 1 Accuracy 79.401 (82.667)	Top 5 Accuracy 86.161 (88.254)
+Batch Using Teacher Forcing: False
+Train Batch: [7900/12935]	Loss 1.7119 (1.5550)	Top 1 Accuracy 78.508 (82.681)	Top 5 Accuracy 86.224 (88.271)
+Batch Using Teacher Forcing: False
+Train Batch: [8000/12935]	Loss 1.2590 (1.5540)	Top 1 Accuracy 86.926 (82.689)	Top 5 Accuracy 91.901 (88.282)
+Batch Using Teacher Forcing: True
+Train Batch: [8100/12935]	Loss 1.7663 (1.5533)	Top 1 Accuracy 79.528 (82.693)	Top 5 Accuracy 86.224 (88.290)
+Batch Using Teacher Forcing: False
+Train Batch: [8200/12935]	Loss 1.2223 (1.5521)	Top 1 Accuracy 87.054 (82.703)	Top 5 Accuracy 92.474 (88.303)
+Batch Using Teacher Forcing: True
+Train Batch: [8300/12935]	Loss 1.7061 (1.5511)	Top 1 Accuracy 79.783 (82.710)	Top 5 Accuracy 86.416 (88.315)
+Batch Using Teacher Forcing: False
+Train Batch: [8400/12935]	Loss 1.5756 (1.5501)	Top 1 Accuracy 81.441 (82.718)	Top 5 Accuracy 86.990 (88.327)
+Batch Using Teacher Forcing: False
+Train Batch: [8500/12935]	Loss 1.3646 (1.5491)	Top 1 Accuracy 86.288 (82.729)	Top 5 Accuracy 90.816 (88.339)
+Batch Using Teacher Forcing: True
+Train Batch: [8600/12935]	Loss 1.6643 (1.5483)	Top 1 Accuracy 80.421 (82.734)	Top 5 Accuracy 86.543 (88.348)
+Batch Using Teacher Forcing: False
+Train Batch: [8700/12935]	Loss 1.3035 (1.5475)	Top 1 Accuracy 85.459 (82.738)	Top 5 Accuracy 92.028 (88.356)
+Batch Using Teacher Forcing: True
+Train Batch: [8800/12935]	Loss 1.3339 (1.5464)	Top 1 Accuracy 84.949 (82.747)	Top 5 Accuracy 91.773 (88.368)
+Batch Using Teacher Forcing: True
+Train Batch: [8900/12935]	Loss 1.2188 (1.5460)	Top 1 Accuracy 87.372 (82.749)	Top 5 Accuracy 92.921 (88.372)
+Batch Using Teacher Forcing: True
+Train Batch: [9000/12935]	Loss 1.5352 (1.5453)	Top 1 Accuracy 81.505 (82.752)	Top 5 Accuracy 88.202 (88.379)
+Batch Using Teacher Forcing: False
+Train Batch: [9100/12935]	Loss 1.7324 (1.5445)	Top 1 Accuracy 78.699 (82.759)	Top 5 Accuracy 84.821 (88.389)
+Batch Using Teacher Forcing: False
+Train Batch: [9200/12935]	Loss 1.6670 (1.5438)	Top 1 Accuracy 80.230 (82.764)	Top 5 Accuracy 86.735 (88.397)
+Batch Using Teacher Forcing: False
+Train Batch: [9300/12935]	Loss 1.2902 (1.5425)	Top 1 Accuracy 85.906 (82.776)	Top 5 Accuracy 91.135 (88.413)
+Batch Using Teacher Forcing: True
+Train Batch: [9400/12935]	Loss 1.1750 (1.5412)	Top 1 Accuracy 87.691 (82.790)	Top 5 Accuracy 92.857 (88.428)
+Batch Using Teacher Forcing: True
+Train Batch: [9500/12935]	Loss 1.2462 (1.5403)	Top 1 Accuracy 87.054 (82.798)	Top 5 Accuracy 92.474 (88.439)
+Batch Using Teacher Forcing: True
+Train Batch: [9600/12935]	Loss 1.2311 (1.5395)	Top 1 Accuracy 86.543 (82.803)	Top 5 Accuracy 92.219 (88.448)
+Batch Using Teacher Forcing: True
+Train Batch: [9700/12935]	Loss 1.3013 (1.5381)	Top 1 Accuracy 86.097 (82.819)	Top 5 Accuracy 92.028 (88.465)
+Batch Using Teacher Forcing: True
+Train Batch: [9800/12935]	Loss 1.2423 (1.5374)	Top 1 Accuracy 86.224 (82.823)	Top 5 Accuracy 91.837 (88.472)
+Batch Using Teacher Forcing: True
+Train Batch: [9900/12935]	Loss 1.3108 (1.5366)	Top 1 Accuracy 85.906 (82.828)	Top 5 Accuracy 91.964 (88.481)
+Batch Using Teacher Forcing: True
+Train Batch: [10000/12935]	Loss 1.2300 (1.5360)	Top 1 Accuracy 87.309 (82.832)	Top 5 Accuracy 92.092 (88.488)
+Batch Using Teacher Forcing: True
+Train Batch: [10100/12935]	Loss 1.3399 (1.5353)	Top 1 Accuracy 85.332 (82.838)	Top 5 Accuracy 91.263 (88.496)
+Batch Using Teacher Forcing: True
+Train Batch: [10200/12935]	Loss 1.3022 (1.5344)	Top 1 Accuracy 85.651 (82.846)	Top 5 Accuracy 91.071 (88.507)
+Batch Using Teacher Forcing: True
+Train Batch: [10300/12935]	Loss 1.3164 (1.5338)	Top 1 Accuracy 85.969 (82.851)	Top 5 Accuracy 91.518 (88.514)
+Batch Using Teacher Forcing: True
+Train Batch: [10400/12935]	Loss 1.2094 (1.5329)	Top 1 Accuracy 87.054 (82.859)	Top 5 Accuracy 92.857 (88.525)
+Batch Using Teacher Forcing: True
+Train Batch: [10500/12935]	Loss 1.2358 (1.5323)	Top 1 Accuracy 86.926 (82.863)	Top 5 Accuracy 92.857 (88.532)
+Batch Using Teacher Forcing: True
+Train Batch: [10600/12935]	Loss 1.2205 (1.5315)	Top 1 Accuracy 86.671 (82.872)	Top 5 Accuracy 93.176 (88.544)
+Batch Using Teacher Forcing: True
+Train Batch: [10700/12935]	Loss 1.6656 (1.5308)	Top 1 Accuracy 80.166 (82.878)	Top 5 Accuracy 86.097 (88.552)
+Batch Using Teacher Forcing: False
+Train Batch: [10800/12935]	Loss 1.7164 (1.5301)	Top 1 Accuracy 79.719 (82.882)	Top 5 Accuracy 85.906 (88.559)
+Batch Using Teacher Forcing: False
+Train Batch: [10900/12935]	Loss 1.2705 (1.5294)	Top 1 Accuracy 86.033 (82.888)	Top 5 Accuracy 91.901 (88.567)
+Batch Using Teacher Forcing: True
+Train Batch: [11000/12935]	Loss 1.2620 (1.5288)	Top 1 Accuracy 86.480 (82.893)	Top 5 Accuracy 91.773 (88.574)
+Batch Using Teacher Forcing: True
+Train Batch: [11100/12935]	Loss 1.6346 (1.5279)	Top 1 Accuracy 80.740 (82.903)	Top 5 Accuracy 87.054 (88.586)
+Batch Using Teacher Forcing: False
+Train Batch: [11200/12935]	Loss 1.2618 (1.5273)	Top 1 Accuracy 86.416 (82.906)	Top 5 Accuracy 92.156 (88.592)
+Batch Using Teacher Forcing: True
+Train Batch: [11300/12935]	Loss 1.5262 (1.5268)	Top 1 Accuracy 81.122 (82.908)	Top 5 Accuracy 87.181 (88.597)
+Batch Using Teacher Forcing: False
+Train Batch: [11400/12935]	Loss 1.6617 (1.5264)	Top 1 Accuracy 80.995 (82.909)	Top 5 Accuracy 86.480 (88.601)
+Batch Using Teacher Forcing: False
+Train Batch: [11500/12935]	Loss 1.1775 (1.5258)	Top 1 Accuracy 88.457 (82.914)	Top 5 Accuracy 92.666 (88.608)
+Batch Using Teacher Forcing: True
+Train Batch: [11600/12935]	Loss 1.2386 (1.5252)	Top 1 Accuracy 86.862 (82.919)	Top 5 Accuracy 92.666 (88.615)
+Batch Using Teacher Forcing: True
+Train Batch: [11700/12935]	Loss 1.6976 (1.5248)	Top 1 Accuracy 80.293 (82.919)	Top 5 Accuracy 86.288 (88.618)
+Batch Using Teacher Forcing: False
+Train Batch: [11800/12935]	Loss 1.2443 (1.5243)	Top 1 Accuracy 86.352 (82.922)	Top 5 Accuracy 92.028 (88.624)
+Batch Using Teacher Forcing: True
+Train Batch: [11900/12935]	Loss 1.8235 (1.5239)	Top 1 Accuracy 78.444 (82.924)	Top 5 Accuracy 84.758 (88.628)
+Batch Using Teacher Forcing: False
+Train Batch: [12000/12935]	Loss 1.6337 (1.5235)	Top 1 Accuracy 79.974 (82.925)	Top 5 Accuracy 87.309 (88.632)
+Batch Using Teacher Forcing: False
+Train Batch: [12100/12935]	Loss 1.2360 (1.5229)	Top 1 Accuracy 86.862 (82.931)	Top 5 Accuracy 92.602 (88.640)
+Batch Using Teacher Forcing: True
+Train Batch: [12200/12935]	Loss 1.2709 (1.5222)	Top 1 Accuracy 85.842 (82.937)	Top 5 Accuracy 92.347 (88.648)
+Batch Using Teacher Forcing: True
+Train Batch: [12300/12935]	Loss 1.3064 (1.5216)	Top 1 Accuracy 85.714 (82.943)	Top 5 Accuracy 91.709 (88.655)
+Batch Using Teacher Forcing: True
+Train Batch: [12400/12935]	Loss 1.7806 (1.5211)	Top 1 Accuracy 78.253 (82.946)	Top 5 Accuracy 85.523 (88.661)
+Batch Using Teacher Forcing: False
+Train Batch: [12500/12935]	Loss 1.6787 (1.5209)	Top 1 Accuracy 79.719 (82.945)	Top 5 Accuracy 86.480 (88.663)
+Batch Using Teacher Forcing: False
+Train Batch: [12600/12935]	Loss 1.7161 (1.5203)	Top 1 Accuracy 79.337 (82.951)	Top 5 Accuracy 85.651 (88.671)
+Batch Using Teacher Forcing: False
+Train Batch: [12700/12935]	Loss 1.3061 (1.5200)	Top 1 Accuracy 85.969 (82.952)	Top 5 Accuracy 91.964 (88.674)
+Batch Using Teacher Forcing: True
+Train Batch: [12800/12935]	Loss 1.2647 (1.5193)	Top 1 Accuracy 86.480 (82.958)	Top 5 Accuracy 92.347 (88.682)
+Batch Using Teacher Forcing: True
+Train Batch: [12900/12935]	Loss 1.7014 (1.5186)	Top 1 Accuracy 79.145 (82.966)	Top 5 Accuracy 85.906 (88.692)
+Batch Using Teacher Forcing: False
+Validation Batch: [0/782]	Loss 1.5070 (1.5070)	Top 1 Accuracy 82.015 (82.015)	Top 5 Accuracy 88.903 (88.903)
+Validation Batch: [100/782]	Loss 1.5388 (1.6142)	Top 1 Accuracy 80.548 (80.605)	Top 5 Accuracy 87.883 (87.072)
+Validation Batch: [200/782]	Loss 1.5488 (1.6110)	Top 1 Accuracy 80.676 (80.539)	Top 5 Accuracy 87.054 (87.045)
+Validation Batch: [300/782]	Loss 1.6212 (1.6129)	Top 1 Accuracy 80.421 (80.526)	Top 5 Accuracy 86.607 (87.039)
+Validation Batch: [400/782]	Loss 1.5202 (1.6114)	Top 1 Accuracy 82.398 (80.554)	Top 5 Accuracy 88.329 (87.049)
+Validation Batch: [500/782]	Loss 1.6981 (1.6094)	Top 1 Accuracy 79.528 (80.579)	Top 5 Accuracy 86.480 (87.077)
+Validation Batch: [600/782]	Loss 1.6211 (1.6090)	Top 1 Accuracy 80.676 (80.577)	Top 5 Accuracy 86.161 (87.062)
+Validation Batch: [700/782]	Loss 1.7683 (1.6098)	Top 1 Accuracy 78.827 (80.580)	Top 5 Accuracy 85.077 (87.059)
+Validation Epoch: 1     BLEU-1 (0.5702745066516619)     BLEU-2 (0.3246917384947564)     BLEU-3 (0.1971416555441038)     BLEU-4 (0.11630386409752758)
+Train Batch: [0/12935]	Loss 1.1626 (1.1626)	Top 1 Accuracy 87.309 (87.309)	Top 5 Accuracy 93.176 (93.176)
+Batch Using Teacher Forcing: True
+Train Batch: [100/12935]	Loss 1.2353 (1.4384)	Top 1 Accuracy 86.288 (83.683)	Top 5 Accuracy 92.921 (89.600)
+Batch Using Teacher Forcing: True
+Train Batch: [200/12935]	Loss 1.2053 (1.4425)	Top 1 Accuracy 87.372 (83.574)	Top 5 Accuracy 92.921 (89.562)
+Batch Using Teacher Forcing: True
+Train Batch: [300/12935]	Loss 1.6453 (1.4508)	Top 1 Accuracy 80.548 (83.447)	Top 5 Accuracy 86.352 (89.425)
+Batch Using Teacher Forcing: False
+Train Batch: [400/12935]	Loss 1.2686 (1.4447)	Top 1 Accuracy 85.077 (83.527)	Top 5 Accuracy 92.092 (89.527)
+Batch Using Teacher Forcing: True
+Train Batch: [500/12935]	Loss 1.1869 (1.4458)	Top 1 Accuracy 87.117 (83.503)	Top 5 Accuracy 93.048 (89.511)
+Batch Using Teacher Forcing: True
+Train Batch: [600/12935]	Loss 1.2884 (1.4474)	Top 1 Accuracy 85.969 (83.467)	Top 5 Accuracy 92.283 (89.479)
+Batch Using Teacher Forcing: True
+Train Batch: [700/12935]	Loss 1.6135 (1.4523)	Top 1 Accuracy 81.122 (83.396)	Top 5 Accuracy 87.628 (89.409)
+Batch Using Teacher Forcing: False
+Train Batch: [800/12935]	Loss 1.5509 (1.4489)	Top 1 Accuracy 81.760 (83.457)	Top 5 Accuracy 87.691 (89.459)
+Batch Using Teacher Forcing: False
+Train Batch: [900/12935]	Loss 1.5598 (1.4518)	Top 1 Accuracy 81.760 (83.404)	Top 5 Accuracy 87.436 (89.426)
+Batch Using Teacher Forcing: False
+Train Batch: [1000/12935]	Loss 1.2735 (1.4521)	Top 1 Accuracy 86.607 (83.400)	Top 5 Accuracy 91.773 (89.422)
+Batch Using Teacher Forcing: True
+Train Batch: [1100/12935]	Loss 1.7115 (1.4518)	Top 1 Accuracy 79.082 (83.402)	Top 5 Accuracy 85.204 (89.421)
+Batch Using Teacher Forcing: False
+Train Batch: [1200/12935]	Loss 1.7515 (1.4502)	Top 1 Accuracy 79.273 (83.430)	Top 5 Accuracy 85.395 (89.442)
+Batch Using Teacher Forcing: False
+Train Batch: [1300/12935]	Loss 1.7507 (1.4486)	Top 1 Accuracy 79.592 (83.456)	Top 5 Accuracy 84.885 (89.466)
+Batch Using Teacher Forcing: False
+Train Batch: [1400/12935]	Loss 1.2036 (1.4474)	Top 1 Accuracy 87.500 (83.478)	Top 5 Accuracy 92.857 (89.479)
+Batch Using Teacher Forcing: True
+Train Batch: [1500/12935]	Loss 1.6898 (1.4461)	Top 1 Accuracy 79.592 (83.492)	Top 5 Accuracy 85.842 (89.488)
+Batch Using Teacher Forcing: False
+Train Batch: [1600/12935]	Loss 1.5789 (1.4461)	Top 1 Accuracy 81.824 (83.492)	Top 5 Accuracy 86.990 (89.492)
+Batch Using Teacher Forcing: False
+Train Batch: [1700/12935]	Loss 1.2997 (1.4432)	Top 1 Accuracy 85.842 (83.531)	Top 5 Accuracy 91.199 (89.527)
+Batch Using Teacher Forcing: True
+Train Batch: [1800/12935]	Loss 1.4868 (1.4433)	Top 1 Accuracy 82.079 (83.528)	Top 5 Accuracy 88.457 (89.523)
+Batch Using Teacher Forcing: False
+Train Batch: [1900/12935]	Loss 1.2041 (1.4426)	Top 1 Accuracy 87.691 (83.541)	Top 5 Accuracy 92.602 (89.532)
+Batch Using Teacher Forcing: True
+Train Batch: [2000/12935]	Loss 1.5694 (1.4422)	Top 1 Accuracy 80.548 (83.548)	Top 5 Accuracy 87.117 (89.538)
+Batch Using Teacher Forcing: False
+Train Batch: [2100/12935]	Loss 1.1859 (1.4417)	Top 1 Accuracy 87.245 (83.552)	Top 5 Accuracy 93.048 (89.544)
+Batch Using Teacher Forcing: True
+Train Batch: [2200/12935]	Loss 1.5288 (1.4413)	Top 1 Accuracy 81.441 (83.555)	Top 5 Accuracy 87.564 (89.548)
+Batch Using Teacher Forcing: False
+Train Batch: [2300/12935]	Loss 1.6170 (1.4406)	Top 1 Accuracy 80.804 (83.564)	Top 5 Accuracy 87.054 (89.557)
+Batch Using Teacher Forcing: False
+Train Batch: [2400/12935]	Loss 1.6912 (1.4419)	Top 1 Accuracy 79.719 (83.543)	Top 5 Accuracy 85.969 (89.538)
+Batch Using Teacher Forcing: False
+Train Batch: [2500/12935]	Loss 1.2553 (1.4428)	Top 1 Accuracy 86.862 (83.527)	Top 5 Accuracy 91.837 (89.525)
+Batch Using Teacher Forcing: True
+Train Batch: [2600/12935]	Loss 1.2879 (1.4424)	Top 1 Accuracy 86.543 (83.535)	Top 5 Accuracy 91.390 (89.532)
+Batch Using Teacher Forcing: True
+Train Batch: [2700/12935]	Loss 1.1878 (1.4423)	Top 1 Accuracy 87.691 (83.532)	Top 5 Accuracy 93.112 (89.533)
+Batch Using Teacher Forcing: True
+Train Batch: [2800/12935]	Loss 1.2191 (1.4417)	Top 1 Accuracy 86.735 (83.539)	Top 5 Accuracy 92.730 (89.540)
+Batch Using Teacher Forcing: True
+Train Batch: [2900/12935]	Loss 1.6354 (1.4418)	Top 1 Accuracy 81.122 (83.535)	Top 5 Accuracy 86.161 (89.537)
+Batch Using Teacher Forcing: False
+Train Batch: [3000/12935]	Loss 1.5864 (1.4429)	Top 1 Accuracy 81.760 (83.516)	Top 5 Accuracy 87.755 (89.523)
+Batch Using Teacher Forcing: False
+Train Batch: [3100/12935]	Loss 1.6009 (1.4422)	Top 1 Accuracy 81.250 (83.529)	Top 5 Accuracy 87.372 (89.535)
+Batch Using Teacher Forcing: False
+Train Batch: [3200/12935]	Loss 1.1668 (1.4420)	Top 1 Accuracy 87.691 (83.527)	Top 5 Accuracy 93.622 (89.535)
+Batch Using Teacher Forcing: True
+Train Batch: [3300/12935]	Loss 1.3487 (1.4415)	Top 1 Accuracy 86.161 (83.536)	Top 5 Accuracy 90.689 (89.544)
+Batch Using Teacher Forcing: True
+Train Batch: [3400/12935]	Loss 1.2403 (1.4404)	Top 1 Accuracy 86.288 (83.556)	Top 5 Accuracy 92.602 (89.561)
+Batch Using Teacher Forcing: True
+Train Batch: [3500/12935]	Loss 1.3056 (1.4412)	Top 1 Accuracy 85.332 (83.540)	Top 5 Accuracy 91.645 (89.550)
+Batch Using Teacher Forcing: True
+Train Batch: [3600/12935]	Loss 1.5795 (1.4408)	Top 1 Accuracy 80.230 (83.546)	Top 5 Accuracy 87.372 (89.558)
+Batch Using Teacher Forcing: False
+Train Batch: [3700/12935]	Loss 1.4230 (1.4403)	Top 1 Accuracy 82.844 (83.553)	Top 5 Accuracy 89.158 (89.565)
+Batch Using Teacher Forcing: False
+Train Batch: [3800/12935]	Loss 1.5981 (1.4404)	Top 1 Accuracy 81.505 (83.551)	Top 5 Accuracy 86.926 (89.564)
+Batch Using Teacher Forcing: False
+Train Batch: [3900/12935]	Loss 1.2293 (1.4401)	Top 1 Accuracy 86.990 (83.558)	Top 5 Accuracy 92.793 (89.569)
+Batch Using Teacher Forcing: True
+Train Batch: [4000/12935]	Loss 1.2120 (1.4402)	Top 1 Accuracy 86.862 (83.556)	Top 5 Accuracy 92.666 (89.570)
+Batch Using Teacher Forcing: True
+Train Batch: [4100/12935]	Loss 1.2278 (1.4403)	Top 1 Accuracy 86.926 (83.552)	Top 5 Accuracy 92.730 (89.566)
+Batch Using Teacher Forcing: True
+Train Batch: [4200/12935]	Loss 1.7142 (1.4401)	Top 1 Accuracy 79.847 (83.556)	Top 5 Accuracy 86.224 (89.570)
+Batch Using Teacher Forcing: False
+Train Batch: [4300/12935]	Loss 1.1676 (1.4396)	Top 1 Accuracy 87.564 (83.566)	Top 5 Accuracy 93.431 (89.579)
+Batch Using Teacher Forcing: True
+Train Batch: [4400/12935]	Loss 1.7094 (1.4392)	Top 1 Accuracy 79.911 (83.573)	Top 5 Accuracy 86.352 (89.587)
+Batch Using Teacher Forcing: False
+Train Batch: [4500/12935]	Loss 1.5144 (1.4392)	Top 1 Accuracy 80.931 (83.572)	Top 5 Accuracy 87.245 (89.585)
+Batch Using Teacher Forcing: False
+Train Batch: [4600/12935]	Loss 1.2348 (1.4385)	Top 1 Accuracy 87.181 (83.582)	Top 5 Accuracy 91.964 (89.593)
+Batch Using Teacher Forcing: True
+Train Batch: [4700/12935]	Loss 1.2615 (1.4377)	Top 1 Accuracy 85.842 (83.594)	Top 5 Accuracy 92.028 (89.605)
+Batch Using Teacher Forcing: True
+Train Batch: [4800/12935]	Loss 1.2779 (1.4378)	Top 1 Accuracy 85.906 (83.591)	Top 5 Accuracy 91.773 (89.604)
+Batch Using Teacher Forcing: True
+Train Batch: [4900/12935]	Loss 1.1880 (1.4369)	Top 1 Accuracy 88.265 (83.604)	Top 5 Accuracy 92.857 (89.616)
+Batch Using Teacher Forcing: True
+Train Batch: [5000/12935]	Loss 1.1978 (1.4372)	Top 1 Accuracy 87.436 (83.601)	Top 5 Accuracy 92.474 (89.612)
+Batch Using Teacher Forcing: True
+Train Batch: [5100/12935]	Loss 1.1940 (1.4368)	Top 1 Accuracy 86.161 (83.603)	Top 5 Accuracy 93.304 (89.617)
+Batch Using Teacher Forcing: True
+Train Batch: [5200/12935]	Loss 1.2606 (1.4374)	Top 1 Accuracy 86.862 (83.590)	Top 5 Accuracy 92.219 (89.606)
+Batch Using Teacher Forcing: True
+Train Batch: [5300/12935]	Loss 1.1745 (1.4373)	Top 1 Accuracy 88.393 (83.594)	Top 5 Accuracy 92.921 (89.610)
+Batch Using Teacher Forcing: True
+Train Batch: [5400/12935]	Loss 1.7506 (1.4374)	Top 1 Accuracy 79.273 (83.593)	Top 5 Accuracy 86.161 (89.610)
+Batch Using Teacher Forcing: False
+Train Batch: [5500/12935]	Loss 1.3484 (1.4375)	Top 1 Accuracy 85.587 (83.593)	Top 5 Accuracy 91.645 (89.609)
+Batch Using Teacher Forcing: True
+Train Batch: [5600/12935]	Loss 1.6803 (1.4368)	Top 1 Accuracy 80.102 (83.603)	Top 5 Accuracy 86.416 (89.617)
+Batch Using Teacher Forcing: False
+Train Batch: [5700/12935]	Loss 1.2403 (1.4373)	Top 1 Accuracy 87.117 (83.594)	Top 5 Accuracy 91.964 (89.610)
+Batch Using Teacher Forcing: True
+Train Batch: [5800/12935]	Loss 1.6686 (1.4372)	Top 1 Accuracy 80.421 (83.595)	Top 5 Accuracy 86.416 (89.612)
+Batch Using Teacher Forcing: False
+Train Batch: [5900/12935]	Loss 1.6211 (1.4373)	Top 1 Accuracy 80.676 (83.592)	Top 5 Accuracy 86.352 (89.612)
+Batch Using Teacher Forcing: False
+Train Batch: [6000/12935]	Loss 1.1910 (1.4376)	Top 1 Accuracy 86.926 (83.587)	Top 5 Accuracy 92.602 (89.608)
+Batch Using Teacher Forcing: True
+Train Batch: [6100/12935]	Loss 1.6872 (1.4376)	Top 1 Accuracy 80.166 (83.587)	Top 5 Accuracy 86.990 (89.609)
+Batch Using Teacher Forcing: False
+Train Batch: [6200/12935]	Loss 1.3141 (1.4376)	Top 1 Accuracy 85.969 (83.587)	Top 5 Accuracy 91.901 (89.608)
+Batch Using Teacher Forcing: True
+Train Batch: [6300/12935]	Loss 1.0925 (1.4372)	Top 1 Accuracy 88.329 (83.593)	Top 5 Accuracy 94.133 (89.615)
+Batch Using Teacher Forcing: True
+Train Batch: [6400/12935]	Loss 1.1936 (1.4371)	Top 1 Accuracy 87.309 (83.595)	Top 5 Accuracy 92.921 (89.616)
+Batch Using Teacher Forcing: True
+Train Batch: [6500/12935]	Loss 1.5580 (1.4373)	Top 1 Accuracy 81.122 (83.592)	Top 5 Accuracy 87.245 (89.614)
+Batch Using Teacher Forcing: False
+Train Batch: [6600/12935]	Loss 1.2514 (1.4368)	Top 1 Accuracy 86.480 (83.598)	Top 5 Accuracy 92.474 (89.621)
+Batch Using Teacher Forcing: True
+Train Batch: [6700/12935]	Loss 1.1966 (1.4370)	Top 1 Accuracy 86.671 (83.597)	Top 5 Accuracy 92.411 (89.620)
+Batch Using Teacher Forcing: True
+Train Batch: [6800/12935]	Loss 1.7200 (1.4366)	Top 1 Accuracy 79.528 (83.602)	Top 5 Accuracy 85.459 (89.625)
+Batch Using Teacher Forcing: False
+Train Batch: [6900/12935]	Loss 1.2203 (1.4363)	Top 1 Accuracy 86.990 (83.606)	Top 5 Accuracy 92.474 (89.629)
+Batch Using Teacher Forcing: True
+Train Batch: [7000/12935]	Loss 1.1144 (1.4361)	Top 1 Accuracy 88.584 (83.610)	Top 5 Accuracy 93.941 (89.632)
+Batch Using Teacher Forcing: True
+Train Batch: [7100/12935]	Loss 1.2133 (1.4355)	Top 1 Accuracy 86.543 (83.619)	Top 5 Accuracy 92.474 (89.641)
+Batch Using Teacher Forcing: True
+Train Batch: [7200/12935]	Loss 1.3143 (1.4349)	Top 1 Accuracy 86.161 (83.628)	Top 5 Accuracy 91.709 (89.650)
+Batch Using Teacher Forcing: True
+Train Batch: [7300/12935]	Loss 1.2706 (1.4349)	Top 1 Accuracy 86.798 (83.628)	Top 5 Accuracy 91.709 (89.650)
+Batch Using Teacher Forcing: True
+Train Batch: [7400/12935]	Loss 1.6477 (1.4354)	Top 1 Accuracy 79.464 (83.620)	Top 5 Accuracy 86.161 (89.643)
+Batch Using Teacher Forcing: False
+Train Batch: [7500/12935]	Loss 1.6363 (1.4355)	Top 1 Accuracy 79.974 (83.616)	Top 5 Accuracy 86.607 (89.641)
+Batch Using Teacher Forcing: False
+Train Batch: [7600/12935]	Loss 1.7101 (1.4356)	Top 1 Accuracy 79.145 (83.614)	Top 5 Accuracy 85.714 (89.639)
+Batch Using Teacher Forcing: False
+Train Batch: [7700/12935]	Loss 1.5863 (1.4357)	Top 1 Accuracy 81.059 (83.614)	Top 5 Accuracy 87.245 (89.639)
+Batch Using Teacher Forcing: False
+Train Batch: [7800/12935]	Loss 1.3562 (1.4352)	Top 1 Accuracy 84.184 (83.620)	Top 5 Accuracy 91.454 (89.644)
+Batch Using Teacher Forcing: True
+Train Batch: [7900/12935]	Loss 1.6810 (1.4353)	Top 1 Accuracy 79.592 (83.619)	Top 5 Accuracy 85.651 (89.644)
+Batch Using Teacher Forcing: False
+Train Batch: [8000/12935]	Loss 1.4620 (1.4353)	Top 1 Accuracy 83.099 (83.620)	Top 5 Accuracy 89.349 (89.644)
+Batch Using Teacher Forcing: False
+Train Batch: [8100/12935]	Loss 1.5748 (1.4350)	Top 1 Accuracy 80.740 (83.625)	Top 5 Accuracy 87.755 (89.648)
+Batch Using Teacher Forcing: False
+Train Batch: [8200/12935]	Loss 1.6344 (1.4352)	Top 1 Accuracy 80.293 (83.621)	Top 5 Accuracy 86.607 (89.644)
+Batch Using Teacher Forcing: False
+Train Batch: [8300/12935]	Loss 1.1553 (1.4349)	Top 1 Accuracy 89.413 (83.625)	Top 5 Accuracy 93.240 (89.648)
+Batch Using Teacher Forcing: True
+Train Batch: [8400/12935]	Loss 1.6037 (1.4348)	Top 1 Accuracy 81.633 (83.625)	Top 5 Accuracy 88.138 (89.649)
+Batch Using Teacher Forcing: False
+Train Batch: [8500/12935]	Loss 1.5747 (1.4344)	Top 1 Accuracy 80.230 (83.631)	Top 5 Accuracy 87.436 (89.654)
+Batch Using Teacher Forcing: False
+Train Batch: [8600/12935]	Loss 1.1419 (1.4346)	Top 1 Accuracy 88.393 (83.629)	Top 5 Accuracy 93.559 (89.653)
+Batch Using Teacher Forcing: True
+Train Batch: [8700/12935]	Loss 1.5600 (1.4342)	Top 1 Accuracy 81.250 (83.633)	Top 5 Accuracy 87.245 (89.658)
+Batch Using Teacher Forcing: False
+Train Batch: [8800/12935]	Loss 1.2348 (1.4342)	Top 1 Accuracy 87.117 (83.634)	Top 5 Accuracy 91.901 (89.658)
+Batch Using Teacher Forcing: True
+Train Batch: [8900/12935]	Loss 1.6783 (1.4338)	Top 1 Accuracy 79.719 (83.640)	Top 5 Accuracy 85.969 (89.663)
+Batch Using Teacher Forcing: False
+Train Batch: [9000/12935]	Loss 1.6147 (1.4334)	Top 1 Accuracy 80.804 (83.645)	Top 5 Accuracy 86.352 (89.667)
+Batch Using Teacher Forcing: False
+Train Batch: [9100/12935]	Loss 1.1744 (1.4332)	Top 1 Accuracy 88.520 (83.650)	Top 5 Accuracy 92.921 (89.670)
+Batch Using Teacher Forcing: True
+Train Batch: [9200/12935]	Loss 1.5430 (1.4332)	Top 1 Accuracy 81.059 (83.649)	Top 5 Accuracy 86.926 (89.670)
+Batch Using Teacher Forcing: False
+Train Batch: [9300/12935]	Loss 1.3177 (1.4328)	Top 1 Accuracy 85.587 (83.654)	Top 5 Accuracy 91.837 (89.675)
+Batch Using Teacher Forcing: True
+Train Batch: [9400/12935]	Loss 1.5106 (1.4330)	Top 1 Accuracy 81.378 (83.649)	Top 5 Accuracy 88.457 (89.672)
+Batch Using Teacher Forcing: False
+Train Batch: [9500/12935]	Loss 1.5419 (1.4328)	Top 1 Accuracy 81.441 (83.651)	Top 5 Accuracy 87.946 (89.675)
+Batch Using Teacher Forcing: False
+Train Batch: [9600/12935]	Loss 1.2497 (1.4331)	Top 1 Accuracy 86.352 (83.647)	Top 5 Accuracy 92.156 (89.670)
+Batch Using Teacher Forcing: True
+Train Batch: [9700/12935]	Loss 1.6031 (1.4329)	Top 1 Accuracy 80.038 (83.649)	Top 5 Accuracy 87.436 (89.672)
+Batch Using Teacher Forcing: False
+Train Batch: [9800/12935]	Loss 1.7956 (1.4327)	Top 1 Accuracy 79.783 (83.652)	Top 5 Accuracy 85.778 (89.675)
+Batch Using Teacher Forcing: False
+Train Batch: [9900/12935]	Loss 1.2069 (1.4326)	Top 1 Accuracy 87.628 (83.653)	Top 5 Accuracy 93.240 (89.677)
+Batch Using Teacher Forcing: True
+Train Batch: [10000/12935]	Loss 1.1609 (1.4326)	Top 1 Accuracy 88.329 (83.654)	Top 5 Accuracy 93.495 (89.678)
+Batch Using Teacher Forcing: True
+Train Batch: [10100/12935]	Loss 1.2235 (1.4328)	Top 1 Accuracy 86.352 (83.648)	Top 5 Accuracy 92.857 (89.675)
+Batch Using Teacher Forcing: True
+Train Batch: [10200/12935]	Loss 1.2281 (1.4331)	Top 1 Accuracy 87.564 (83.643)	Top 5 Accuracy 92.538 (89.671)
+Batch Using Teacher Forcing: True
+Train Batch: [10300/12935]	Loss 1.2058 (1.4329)	Top 1 Accuracy 87.181 (83.647)	Top 5 Accuracy 92.730 (89.675)
+Batch Using Teacher Forcing: True
+Train Batch: [10400/12935]	Loss 1.1264 (1.4327)	Top 1 Accuracy 89.094 (83.649)	Top 5 Accuracy 93.814 (89.678)
+Batch Using Teacher Forcing: True
+Train Batch: [10500/12935]	Loss 1.3244 (1.4327)	Top 1 Accuracy 85.268 (83.650)	Top 5 Accuracy 91.390 (89.679)
+Batch Using Teacher Forcing: True
+Train Batch: [10600/12935]	Loss 1.5765 (1.4324)	Top 1 Accuracy 80.995 (83.654)	Top 5 Accuracy 87.372 (89.683)
+Batch Using Teacher Forcing: False
+Train Batch: [10700/12935]	Loss 1.1732 (1.4326)	Top 1 Accuracy 87.946 (83.650)	Top 5 Accuracy 93.304 (89.680)
+Batch Using Teacher Forcing: True
+Train Batch: [10800/12935]	Loss 1.5655 (1.4326)	Top 1 Accuracy 81.569 (83.649)	Top 5 Accuracy 87.436 (89.680)
+Batch Using Teacher Forcing: False
+Train Batch: [10900/12935]	Loss 1.5121 (1.4324)	Top 1 Accuracy 81.760 (83.651)	Top 5 Accuracy 88.329 (89.682)
+Batch Using Teacher Forcing: False
+Train Batch: [11000/12935]	Loss 1.6178 (1.4324)	Top 1 Accuracy 80.995 (83.652)	Top 5 Accuracy 86.926 (89.683)
+Batch Using Teacher Forcing: False
+Train Batch: [11100/12935]	Loss 1.5257 (1.4324)	Top 1 Accuracy 81.824 (83.652)	Top 5 Accuracy 88.329 (89.683)
+Batch Using Teacher Forcing: False
+Train Batch: [11200/12935]	Loss 1.1335 (1.4323)	Top 1 Accuracy 88.010 (83.652)	Top 5 Accuracy 94.133 (89.684)
+Batch Using Teacher Forcing: True
+Train Batch: [11300/12935]	Loss 1.5602 (1.4325)	Top 1 Accuracy 82.079 (83.648)	Top 5 Accuracy 87.628 (89.680)
+Batch Using Teacher Forcing: False
+Train Batch: [11400/12935]	Loss 1.1349 (1.4322)	Top 1 Accuracy 87.819 (83.652)	Top 5 Accuracy 94.324 (89.685)
+Batch Using Teacher Forcing: True
+Train Batch: [11500/12935]	Loss 1.5112 (1.4322)	Top 1 Accuracy 81.059 (83.652)	Top 5 Accuracy 88.329 (89.685)
+Batch Using Teacher Forcing: False
+Train Batch: [11600/12935]	Loss 1.6016 (1.4320)	Top 1 Accuracy 80.548 (83.655)	Top 5 Accuracy 87.309 (89.688)
+Batch Using Teacher Forcing: False
+Train Batch: [11700/12935]	Loss 1.6555 (1.4322)	Top 1 Accuracy 80.421 (83.652)	Top 5 Accuracy 86.607 (89.686)
+Batch Using Teacher Forcing: False
+Train Batch: [11800/12935]	Loss 1.7641 (1.4324)	Top 1 Accuracy 79.592 (83.647)	Top 5 Accuracy 86.097 (89.683)
+Batch Using Teacher Forcing: False
+Train Batch: [11900/12935]	Loss 1.2412 (1.4320)	Top 1 Accuracy 86.671 (83.653)	Top 5 Accuracy 92.730 (89.688)
+Batch Using Teacher Forcing: True
+Train Batch: [12000/12935]	Loss 1.6589 (1.4324)	Top 1 Accuracy 80.676 (83.646)	Top 5 Accuracy 87.245 (89.683)
+Batch Using Teacher Forcing: False
+Train Batch: [12100/12935]	Loss 1.8002 (1.4321)	Top 1 Accuracy 78.763 (83.652)	Top 5 Accuracy 85.906 (89.688)
+Batch Using Teacher Forcing: False
+Train Batch: [12200/12935]	Loss 1.1238 (1.4320)	Top 1 Accuracy 88.584 (83.653)	Top 5 Accuracy 93.686 (89.690)
+Batch Using Teacher Forcing: True
+Train Batch: [12300/12935]	Loss 1.7136 (1.4320)	Top 1 Accuracy 79.847 (83.651)	Top 5 Accuracy 85.778 (89.689)
+Batch Using Teacher Forcing: False
+Train Batch: [12400/12935]	Loss 1.6588 (1.4320)	Top 1 Accuracy 80.485 (83.652)	Top 5 Accuracy 86.926 (89.690)
+Batch Using Teacher Forcing: False
+Train Batch: [12500/12935]	Loss 1.1601 (1.4318)	Top 1 Accuracy 87.946 (83.656)	Top 5 Accuracy 93.304 (89.693)
+Batch Using Teacher Forcing: True
+Train Batch: [12600/12935]	Loss 1.6132 (1.4319)	Top 1 Accuracy 80.485 (83.654)	Top 5 Accuracy 86.735 (89.692)
+Batch Using Teacher Forcing: False
+Train Batch: [12700/12935]	Loss 1.1947 (1.4320)	Top 1 Accuracy 88.010 (83.652)	Top 5 Accuracy 92.985 (89.691)
+Batch Using Teacher Forcing: True
+Train Batch: [12800/12935]	Loss 1.7281 (1.4320)	Top 1 Accuracy 77.997 (83.651)	Top 5 Accuracy 85.204 (89.691)
+Batch Using Teacher Forcing: False
+Train Batch: [12900/12935]	Loss 1.2715 (1.4323)	Top 1 Accuracy 85.204 (83.646)	Top 5 Accuracy 92.538 (89.687)
+Batch Using Teacher Forcing: True
+Validation Batch: [0/782]	Loss 1.6587 (1.6587)	Top 1 Accuracy 79.528 (79.528)	Top 5 Accuracy 86.161 (86.161)
+Validation Batch: [100/782]	Loss 1.6026 (1.5922)	Top 1 Accuracy 80.293 (80.671)	Top 5 Accuracy 86.926 (87.331)
+Validation Batch: [200/782]	Loss 1.6098 (1.5972)	Top 1 Accuracy 80.548 (80.568)	Top 5 Accuracy 87.117 (87.280)
+Validation Batch: [300/782]	Loss 1.6349 (1.5976)	Top 1 Accuracy 80.102 (80.553)	Top 5 Accuracy 87.564 (87.271)
+Validation Batch: [400/782]	Loss 1.6403 (1.6004)	Top 1 Accuracy 79.719 (80.564)	Top 5 Accuracy 86.543 (87.242)
+Validation Batch: [500/782]	Loss 1.5576 (1.6021)	Top 1 Accuracy 79.847 (80.548)	Top 5 Accuracy 86.990 (87.219)
+Validation Batch: [600/782]	Loss 1.7068 (1.6003)	Top 1 Accuracy 80.102 (80.576)	Top 5 Accuracy 86.543 (87.231)
+Validation Batch: [700/782]	Loss 1.6377 (1.5994)	Top 1 Accuracy 80.548 (80.590)	Top 5 Accuracy 87.117 (87.235)
+Validation Epoch: 2	BLEU-1 (0.600635582175032)	BLEU-2 (0.35945818853474837)	BLEU-3 (0.22711030275531316)	BLEU-4 (0.1411615829055149)	
+Train Batch: [0/12935]	Loss 1.1340 (1.1340)	Top 1 Accuracy 88.584 (88.584)	Top 5 Accuracy 94.069 (94.069)
+Batch Using Teacher Forcing: True
+Train Batch: [100/12935]	Loss 1.1819 (1.4025)	Top 1 Accuracy 87.500 (83.974)	Top 5 Accuracy 92.921 (90.010)
+Batch Using Teacher Forcing: True
+Train Batch: [200/12935]	Loss 1.6982 (1.4085)	Top 1 Accuracy 80.102 (83.873)	Top 5 Accuracy 86.671 (89.944)
+Batch Using Teacher Forcing: False
+Train Batch: [300/12935]	Loss 1.1610 (1.4194)	Top 1 Accuracy 87.946 (83.706)	Top 5 Accuracy 93.240 (89.793)
+Batch Using Teacher Forcing: True
+Train Batch: [400/12935]	Loss 1.2041 (1.4169)	Top 1 Accuracy 86.416 (83.713)	Top 5 Accuracy 93.304 (89.831)
+Batch Using Teacher Forcing: True
+Train Batch: [500/12935]	Loss 1.4435 (1.4118)	Top 1 Accuracy 82.717 (83.799)	Top 5 Accuracy 89.094 (89.913)
+Batch Using Teacher Forcing: False
+Train Batch: [600/12935]	Loss 1.2442 (1.4145)	Top 1 Accuracy 86.926 (83.769)	Top 5 Accuracy 92.411 (89.880)
+Batch Using Teacher Forcing: True
+Train Batch: [700/12935]	Loss 1.6792 (1.4182)	Top 1 Accuracy 79.974 (83.705)	Top 5 Accuracy 85.714 (89.822)
+Batch Using Teacher Forcing: False
+Train Batch: [800/12935]	Loss 1.5340 (1.4185)	Top 1 Accuracy 80.931 (83.703)	Top 5 Accuracy 88.010 (89.822)
+Batch Using Teacher Forcing: False
+Train Batch: [900/12935]	Loss 1.5858 (1.4194)	Top 1 Accuracy 81.122 (83.686)	Top 5 Accuracy 87.436 (89.807)
+Batch Using Teacher Forcing: False
+Train Batch: [1000/12935]	Loss 1.6166 (1.4184)	Top 1 Accuracy 80.102 (83.698)	Top 5 Accuracy 87.117 (89.831)
+Batch Using Teacher Forcing: False
+Train Batch: [1100/12935]	Loss 1.1422 (1.4190)	Top 1 Accuracy 87.819 (83.693)	Top 5 Accuracy 93.878 (89.814)
+Batch Using Teacher Forcing: True
+Train Batch: [1200/12935]	Loss 1.5709 (1.4205)	Top 1 Accuracy 80.038 (83.671)	Top 5 Accuracy 87.245 (89.789)
+Batch Using Teacher Forcing: False
+Train Batch: [1300/12935]	Loss 1.2673 (1.4188)	Top 1 Accuracy 85.714 (83.698)	Top 5 Accuracy 91.773 (89.813)
+Batch Using Teacher Forcing: True
+Train Batch: [1400/12935]	Loss 1.1635 (1.4175)	Top 1 Accuracy 87.883 (83.719)	Top 5 Accuracy 93.750 (89.830)
+Batch Using Teacher Forcing: True
+Train Batch: [1500/12935]	Loss 1.1231 (1.4148)	Top 1 Accuracy 87.883 (83.760)	Top 5 Accuracy 93.814 (89.872)
+Batch Using Teacher Forcing: True
+Train Batch: [1600/12935]	Loss 1.1695 (1.4123)	Top 1 Accuracy 88.520 (83.802)	Top 5 Accuracy 93.240 (89.914)
+Batch Using Teacher Forcing: True
+Train Batch: [1700/12935]	Loss 1.5411 (1.4114)	Top 1 Accuracy 80.867 (83.815)	Top 5 Accuracy 88.648 (89.927)
+Batch Using Teacher Forcing: False
+Train Batch: [1800/12935]	Loss 1.2016 (1.4114)	Top 1 Accuracy 88.010 (83.818)	Top 5 Accuracy 92.666 (89.930)
+Batch Using Teacher Forcing: True
+Train Batch: [1900/12935]	Loss 1.2816 (1.4115)	Top 1 Accuracy 86.543 (83.817)	Top 5 Accuracy 92.092 (89.927)
+Batch Using Teacher Forcing: True
+Train Batch: [2000/12935]	Loss 1.5689 (1.4117)	Top 1 Accuracy 81.122 (83.815)	Top 5 Accuracy 87.755 (89.924)
+Batch Using Teacher Forcing: False
+Train Batch: [2100/12935]	Loss 1.6991 (1.4120)	Top 1 Accuracy 79.528 (83.812)	Top 5 Accuracy 85.651 (89.921)
+Batch Using Teacher Forcing: False
+Train Batch: [2200/12935]	Loss 1.2708 (1.4118)	Top 1 Accuracy 85.459 (83.819)	Top 5 Accuracy 92.602 (89.926)
+Batch Using Teacher Forcing: True
+Train Batch: [2300/12935]	Loss 1.1979 (1.4130)	Top 1 Accuracy 86.926 (83.800)	Top 5 Accuracy 92.793 (89.911)
+Batch Using Teacher Forcing: True
+Train Batch: [2400/12935]	Loss 1.5867 (1.4141)	Top 1 Accuracy 81.186 (83.782)	Top 5 Accuracy 86.607 (89.894)
+Batch Using Teacher Forcing: False
+Train Batch: [2500/12935]	Loss 1.1614 (1.4154)	Top 1 Accuracy 88.010 (83.759)	Top 5 Accuracy 93.750 (89.875)
+Batch Using Teacher Forcing: True
+Train Batch: [2600/12935]	Loss 1.6022 (1.4139)	Top 1 Accuracy 80.804 (83.785)	Top 5 Accuracy 87.117 (89.897)
+Batch Using Teacher Forcing: False
+Train Batch: [2700/12935]	Loss 1.5427 (1.4153)	Top 1 Accuracy 81.569 (83.762)	Top 5 Accuracy 87.819 (89.879)
+Batch Using Teacher Forcing: False
+Train Batch: [2800/12935]	Loss 1.2031 (1.4164)	Top 1 Accuracy 87.181 (83.747)	Top 5 Accuracy 92.283 (89.865)
+Batch Using Teacher Forcing: True
+Train Batch: [2900/12935]	Loss 1.5404 (1.4163)	Top 1 Accuracy 81.696 (83.748)	Top 5 Accuracy 87.755 (89.865)
+Batch Using Teacher Forcing: False
+Train Batch: [3000/12935]	Loss 1.2180 (1.4179)	Top 1 Accuracy 86.607 (83.720)	Top 5 Accuracy 92.793 (89.841)
+Batch Using Teacher Forcing: True
+Train Batch: [3100/12935]	Loss 1.1382 (1.4179)	Top 1 Accuracy 87.628 (83.722)	Top 5 Accuracy 93.176 (89.842)
+Batch Using Teacher Forcing: True
+Train Batch: [3200/12935]	Loss 1.2644 (1.4180)	Top 1 Accuracy 86.416 (83.722)	Top 5 Accuracy 91.901 (89.841)
+Batch Using Teacher Forcing: True
+Train Batch: [3300/12935]	Loss 1.5119 (1.4176)	Top 1 Accuracy 82.270 (83.725)	Top 5 Accuracy 88.265 (89.845)
+Batch Using Teacher Forcing: False
+Train Batch: [3400/12935]	Loss 1.2072 (1.4170)	Top 1 Accuracy 86.798 (83.736)	Top 5 Accuracy 92.347 (89.856)
+Batch Using Teacher Forcing: True
+Train Batch: [3500/12935]	Loss 1.1605 (1.4164)	Top 1 Accuracy 87.309 (83.745)	Top 5 Accuracy 93.814 (89.864)
+Batch Using Teacher Forcing: True
+Train Batch: [3600/12935]	Loss 1.6851 (1.4159)	Top 1 Accuracy 79.273 (83.752)	Top 5 Accuracy 85.459 (89.871)
+Batch Using Teacher Forcing: False
+Train Batch: [3700/12935]	Loss 1.2740 (1.4162)	Top 1 Accuracy 86.416 (83.748)	Top 5 Accuracy 91.837 (89.868)
+Batch Using Teacher Forcing: True
+Train Batch: [3800/12935]	Loss 1.2523 (1.4153)	Top 1 Accuracy 86.862 (83.762)	Top 5 Accuracy 92.411 (89.882)
+Batch Using Teacher Forcing: True
+Train Batch: [3900/12935]	Loss 1.5199 (1.4158)	Top 1 Accuracy 81.696 (83.753)	Top 5 Accuracy 88.393 (89.873)
+Batch Using Teacher Forcing: False
+Train Batch: [4000/12935]	Loss 1.7467 (1.4162)	Top 1 Accuracy 80.230 (83.748)	Top 5 Accuracy 85.778 (89.870)
+Batch Using Teacher Forcing: False
+Train Batch: [4100/12935]	Loss 1.2257 (1.4167)	Top 1 Accuracy 86.990 (83.741)	Top 5 Accuracy 92.283 (89.863)
+Batch Using Teacher Forcing: True
+Train Batch: [4200/12935]	Loss 1.2351 (1.4170)	Top 1 Accuracy 85.969 (83.734)	Top 5 Accuracy 92.028 (89.856)
+Batch Using Teacher Forcing: True
+Train Batch: [4300/12935]	Loss 1.7610 (1.4165)	Top 1 Accuracy 79.337 (83.744)	Top 5 Accuracy 85.714 (89.865)
+Batch Using Teacher Forcing: False
+Train Batch: [4400/12935]	Loss 1.1477 (1.4158)	Top 1 Accuracy 88.393 (83.757)	Top 5 Accuracy 93.686 (89.876)
+Batch Using Teacher Forcing: True
+Train Batch: [4500/12935]	Loss 1.6927 (1.4161)	Top 1 Accuracy 79.018 (83.754)	Top 5 Accuracy 85.395 (89.872)
+Batch Using Teacher Forcing: False
+Train Batch: [4600/12935]	Loss 1.1168 (1.4157)	Top 1 Accuracy 88.712 (83.759)	Top 5 Accuracy 94.133 (89.876)
+Batch Using Teacher Forcing: True
+Train Batch: [4700/12935]	Loss 1.5957 (1.4161)	Top 1 Accuracy 80.676 (83.754)	Top 5 Accuracy 87.245 (89.872)
+Batch Using Teacher Forcing: False
+Train Batch: [4800/12935]	Loss 1.2678 (1.4165)	Top 1 Accuracy 87.181 (83.748)	Top 5 Accuracy 91.773 (89.866)
+Batch Using Teacher Forcing: True
+Train Batch: [4900/12935]	Loss 1.5186 (1.4162)	Top 1 Accuracy 81.696 (83.755)	Top 5 Accuracy 88.839 (89.873)
+Batch Using Teacher Forcing: False
+Train Batch: [5000/12935]	Loss 1.6816 (1.4159)	Top 1 Accuracy 79.273 (83.762)	Top 5 Accuracy 85.906 (89.878)
+Batch Using Teacher Forcing: False
+Train Batch: [5100/12935]	Loss 1.5723 (1.4152)	Top 1 Accuracy 81.250 (83.772)	Top 5 Accuracy 87.181 (89.889)
+Batch Using Teacher Forcing: False
+Train Batch: [5200/12935]	Loss 1.6380 (1.4152)	Top 1 Accuracy 79.528 (83.773)	Top 5 Accuracy 86.671 (89.888)
+Batch Using Teacher Forcing: False
+Train Batch: [5300/12935]	Loss 1.2594 (1.4149)	Top 1 Accuracy 86.607 (83.779)	Top 5 Accuracy 92.411 (89.893)
+Batch Using Teacher Forcing: True
+Train Batch: [5400/12935]	Loss 1.1021 (1.4147)	Top 1 Accuracy 88.648 (83.779)	Top 5 Accuracy 94.196 (89.895)
+Batch Using Teacher Forcing: True
+Train Batch: [5500/12935]	Loss 1.2786 (1.4145)	Top 1 Accuracy 86.097 (83.786)	Top 5 Accuracy 92.347 (89.899)
+Batch Using Teacher Forcing: True
+Train Batch: [5600/12935]	Loss 1.1453 (1.4142)	Top 1 Accuracy 87.564 (83.792)	Top 5 Accuracy 94.069 (89.905)
+Batch Using Teacher Forcing: True
+Train Batch: [5700/12935]	Loss 1.6071 (1.4146)	Top 1 Accuracy 79.464 (83.786)	Top 5 Accuracy 86.671 (89.900)
+Batch Using Teacher Forcing: False
+Train Batch: [5800/12935]	Loss 1.4111 (1.4153)	Top 1 Accuracy 82.334 (83.776)	Top 5 Accuracy 89.477 (89.890)
+Batch Using Teacher Forcing: False
+Train Batch: [5900/12935]	Loss 1.6660 (1.4151)	Top 1 Accuracy 79.974 (83.779)	Top 5 Accuracy 87.436 (89.894)
+Batch Using Teacher Forcing: False
+Train Batch: [6000/12935]	Loss 1.5577 (1.4152)	Top 1 Accuracy 81.059 (83.777)	Top 5 Accuracy 87.883 (89.892)
+Batch Using Teacher Forcing: False
+Train Batch: [6100/12935]	Loss 1.1994 (1.4154)	Top 1 Accuracy 87.054 (83.774)	Top 5 Accuracy 93.686 (89.889)
+Batch Using Teacher Forcing: True
+Train Batch: [6200/12935]	Loss 1.1241 (1.4148)	Top 1 Accuracy 87.883 (83.785)	Top 5 Accuracy 94.069 (89.898)
+Batch Using Teacher Forcing: True
+Train Batch: [6300/12935]	Loss 1.1823 (1.4144)	Top 1 Accuracy 88.393 (83.790)	Top 5 Accuracy 93.941 (89.903)
+Batch Using Teacher Forcing: True
+Train Batch: [6400/12935]	Loss 1.5923 (1.4142)	Top 1 Accuracy 80.548 (83.793)	Top 5 Accuracy 87.309 (89.906)
+Batch Using Teacher Forcing: False
+Train Batch: [6500/12935]	Loss 1.2503 (1.4143)	Top 1 Accuracy 86.671 (83.792)	Top 5 Accuracy 92.219 (89.905)
+Batch Using Teacher Forcing: True
+Train Batch: [6600/12935]	Loss 1.5306 (1.4144)	Top 1 Accuracy 81.633 (83.789)	Top 5 Accuracy 88.010 (89.902)
+Batch Using Teacher Forcing: False
+Train Batch: [6700/12935]	Loss 1.5398 (1.4145)	Top 1 Accuracy 81.250 (83.785)	Top 5 Accuracy 88.457 (89.900)
+Batch Using Teacher Forcing: False
+Train Batch: [6800/12935]	Loss 1.1554 (1.4152)	Top 1 Accuracy 88.265 (83.775)	Top 5 Accuracy 93.878 (89.891)
+Batch Using Teacher Forcing: True
+Train Batch: [6900/12935]	Loss 1.6279 (1.4152)	Top 1 Accuracy 79.911 (83.774)	Top 5 Accuracy 86.288 (89.890)
+Batch Using Teacher Forcing: False
+Train Batch: [7000/12935]	Loss 1.1592 (1.4152)	Top 1 Accuracy 87.500 (83.775)	Top 5 Accuracy 93.622 (89.891)
+Batch Using Teacher Forcing: True
+Train Batch: [7100/12935]	Loss 1.6227 (1.4153)	Top 1 Accuracy 80.357 (83.774)	Top 5 Accuracy 86.862 (89.891)
+Batch Using Teacher Forcing: False
+Train Batch: [7200/12935]	Loss 1.5254 (1.4153)	Top 1 Accuracy 81.250 (83.774)	Top 5 Accuracy 88.393 (89.893)
+Batch Using Teacher Forcing: False
+Train Batch: [7300/12935]	Loss 1.1302 (1.4154)	Top 1 Accuracy 88.457 (83.774)	Top 5 Accuracy 93.686 (89.891)
+Batch Using Teacher Forcing: True
+Train Batch: [7400/12935]	Loss 1.1476 (1.4151)	Top 1 Accuracy 88.776 (83.780)	Top 5 Accuracy 94.196 (89.896)
+Batch Using Teacher Forcing: True
+Train Batch: [7500/12935]	Loss 1.1360 (1.4148)	Top 1 Accuracy 88.393 (83.783)	Top 5 Accuracy 93.495 (89.900)
+Batch Using Teacher Forcing: True
+Train Batch: [7600/12935]	Loss 1.5768 (1.4146)	Top 1 Accuracy 81.441 (83.788)	Top 5 Accuracy 87.755 (89.904)
+Batch Using Teacher Forcing: False
+Train Batch: [7700/12935]	Loss 1.5351 (1.4149)	Top 1 Accuracy 80.421 (83.781)	Top 5 Accuracy 88.202 (89.900)
+Batch Using Teacher Forcing: False
+Train Batch: [7800/12935]	Loss 1.1587 (1.4144)	Top 1 Accuracy 87.755 (83.789)	Top 5 Accuracy 93.559 (89.907)
+Batch Using Teacher Forcing: True
+Train Batch: [7900/12935]	Loss 1.4320 (1.4144)	Top 1 Accuracy 83.865 (83.790)	Top 5 Accuracy 91.008 (89.908)
+Batch Using Teacher Forcing: True
+Train Batch: [8000/12935]	Loss 1.1889 (1.4141)	Top 1 Accuracy 87.181 (83.793)	Top 5 Accuracy 93.240 (89.911)
+Batch Using Teacher Forcing: True
+Train Batch: [8100/12935]	Loss 1.1776 (1.4139)	Top 1 Accuracy 87.181 (83.796)	Top 5 Accuracy 93.304 (89.914)
+Batch Using Teacher Forcing: True
+Train Batch: [8200/12935]	Loss 1.5882 (1.4140)	Top 1 Accuracy 80.421 (83.794)	Top 5 Accuracy 87.054 (89.913)
+Batch Using Teacher Forcing: False
+Train Batch: [8300/12935]	Loss 1.6229 (1.4142)	Top 1 Accuracy 80.230 (83.790)	Top 5 Accuracy 87.628 (89.910)
+Batch Using Teacher Forcing: False
+Train Batch: [8400/12935]	Loss 1.5343 (1.4141)	Top 1 Accuracy 80.931 (83.791)	Top 5 Accuracy 87.946 (89.913)
+Batch Using Teacher Forcing: False
+Train Batch: [8500/12935]	Loss 1.9611 (1.4144)	Top 1 Accuracy 77.232 (83.785)	Top 5 Accuracy 84.885 (89.908)
+Batch Using Teacher Forcing: False
+Train Batch: [8600/12935]	Loss 1.4982 (1.4145)	Top 1 Accuracy 82.398 (83.784)	Top 5 Accuracy 88.584 (89.908)
+Batch Using Teacher Forcing: False
+Train Batch: [8700/12935]	Loss 1.1979 (1.4142)	Top 1 Accuracy 88.010 (83.790)	Top 5 Accuracy 92.985 (89.913)
+Batch Using Teacher Forcing: True
+Train Batch: [8800/12935]	Loss 1.5463 (1.4142)	Top 1 Accuracy 82.143 (83.792)	Top 5 Accuracy 87.564 (89.915)
+Batch Using Teacher Forcing: False
+Train Batch: [8900/12935]	Loss 1.7282 (1.4143)	Top 1 Accuracy 79.273 (83.791)	Top 5 Accuracy 85.906 (89.913)
+Batch Using Teacher Forcing: False
+Train Batch: [9000/12935]	Loss 1.5738 (1.4143)	Top 1 Accuracy 81.186 (83.789)	Top 5 Accuracy 87.564 (89.913)
+Batch Using Teacher Forcing: False
+Train Batch: [9100/12935]	Loss 1.5947 (1.4143)	Top 1 Accuracy 80.676 (83.791)	Top 5 Accuracy 87.181 (89.915)
+Batch Using Teacher Forcing: False
+Train Batch: [9200/12935]	Loss 1.1814 (1.4145)	Top 1 Accuracy 87.500 (83.787)	Top 5 Accuracy 93.112 (89.911)
+Batch Using Teacher Forcing: True
+Train Batch: [9300/12935]	Loss 1.1756 (1.4143)	Top 1 Accuracy 87.245 (83.789)	Top 5 Accuracy 93.367 (89.915)
+Batch Using Teacher Forcing: True
+Train Batch: [9400/12935]	Loss 1.5331 (1.4146)	Top 1 Accuracy 80.931 (83.785)	Top 5 Accuracy 87.436 (89.912)
+Batch Using Teacher Forcing: False
+Train Batch: [9500/12935]	Loss 1.2476 (1.4142)	Top 1 Accuracy 85.969 (83.791)	Top 5 Accuracy 92.156 (89.918)
+Batch Using Teacher Forcing: True
+Train Batch: [9600/12935]	Loss 1.2079 (1.4141)	Top 1 Accuracy 87.628 (83.793)	Top 5 Accuracy 92.985 (89.919)
+Batch Using Teacher Forcing: True
+Train Batch: [9700/12935]	Loss 1.7292 (1.4138)	Top 1 Accuracy 78.763 (83.796)	Top 5 Accuracy 85.204 (89.923)
+Batch Using Teacher Forcing: False
+Train Batch: [9800/12935]	Loss 1.6671 (1.4139)	Top 1 Accuracy 79.847 (83.795)	Top 5 Accuracy 86.352 (89.923)
+Batch Using Teacher Forcing: False
+Train Batch: [9900/12935]	Loss 1.1518 (1.4142)	Top 1 Accuracy 88.074 (83.790)	Top 5 Accuracy 93.941 (89.917)
+Batch Using Teacher Forcing: True
+Train Batch: [10000/12935]	Loss 1.5557 (1.4140)	Top 1 Accuracy 81.059 (83.793)	Top 5 Accuracy 87.946 (89.921)
+Batch Using Teacher Forcing: False
+Train Batch: [10100/12935]	Loss 1.1363 (1.4135)	Top 1 Accuracy 87.819 (83.801)	Top 5 Accuracy 93.622 (89.927)
+Batch Using Teacher Forcing: True
+Train Batch: [10200/12935]	Loss 1.5406 (1.4133)	Top 1 Accuracy 81.441 (83.805)	Top 5 Accuracy 87.372 (89.931)
+Batch Using Teacher Forcing: False
+Train Batch: [10300/12935]	Loss 1.2242 (1.4132)	Top 1 Accuracy 86.352 (83.806)	Top 5 Accuracy 92.921 (89.934)
+Batch Using Teacher Forcing: True
+Train Batch: [10400/12935]	Loss 1.5879 (1.4135)	Top 1 Accuracy 80.804 (83.801)	Top 5 Accuracy 86.990 (89.929)
+Batch Using Teacher Forcing: False
+Train Batch: [10500/12935]	Loss 1.2350 (1.4136)	Top 1 Accuracy 86.926 (83.799)	Top 5 Accuracy 92.730 (89.928)
+Batch Using Teacher Forcing: True
+Train Batch: [10600/12935]	Loss 1.5595 (1.4134)	Top 1 Accuracy 80.740 (83.803)	Top 5 Accuracy 87.755 (89.932)
+Batch Using Teacher Forcing: False
+Train Batch: [10700/12935]	Loss 1.6536 (1.4132)	Top 1 Accuracy 80.038 (83.806)	Top 5 Accuracy 86.607 (89.935)
+Batch Using Teacher Forcing: False
+Train Batch: [10800/12935]	Loss 1.2159 (1.4128)	Top 1 Accuracy 87.755 (83.811)	Top 5 Accuracy 92.793 (89.940)
+Batch Using Teacher Forcing: True
+Train Batch: [10900/12935]	Loss 1.1966 (1.4129)	Top 1 Accuracy 86.926 (83.810)	Top 5 Accuracy 93.240 (89.939)
+Batch Using Teacher Forcing: True
+Train Batch: [11000/12935]	Loss 1.4676 (1.4128)	Top 1 Accuracy 82.653 (83.811)	Top 5 Accuracy 89.286 (89.940)
+Batch Using Teacher Forcing: False
+Train Batch: [11100/12935]	Loss 1.5384 (1.4130)	Top 1 Accuracy 81.186 (83.808)	Top 5 Accuracy 87.755 (89.937)
+Batch Using Teacher Forcing: False
+Train Batch: [11200/12935]	Loss 1.1759 (1.4126)	Top 1 Accuracy 88.010 (83.815)	Top 5 Accuracy 93.431 (89.944)
+Batch Using Teacher Forcing: True
+Train Batch: [11300/12935]	Loss 1.1612 (1.4122)	Top 1 Accuracy 87.500 (83.822)	Top 5 Accuracy 93.559 (89.949)
+Batch Using Teacher Forcing: True
+Train Batch: [11400/12935]	Loss 1.1127 (1.4123)	Top 1 Accuracy 88.393 (83.820)	Top 5 Accuracy 94.770 (89.948)
+Batch Using Teacher Forcing: True
+Train Batch: [11500/12935]	Loss 1.2387 (1.4120)	Top 1 Accuracy 86.862 (83.824)	Top 5 Accuracy 92.602 (89.951)
+Batch Using Teacher Forcing: True
+Train Batch: [11600/12935]	Loss 1.2120 (1.4121)	Top 1 Accuracy 87.691 (83.823)	Top 5 Accuracy 92.921 (89.951)
+Batch Using Teacher Forcing: True
+Train Batch: [11700/12935]	Loss 1.6167 (1.4121)	Top 1 Accuracy 79.847 (83.823)	Top 5 Accuracy 86.097 (89.950)
+Batch Using Teacher Forcing: False
+Train Batch: [11800/12935]	Loss 1.4581 (1.4122)	Top 1 Accuracy 82.334 (83.822)	Top 5 Accuracy 88.903 (89.949)
+Batch Using Teacher Forcing: False
+Train Batch: [11900/12935]	Loss 1.6574 (1.4119)	Top 1 Accuracy 79.974 (83.827)	Top 5 Accuracy 86.416 (89.954)
+Batch Using Teacher Forcing: False
+Train Batch: [12000/12935]	Loss 1.1206 (1.4118)	Top 1 Accuracy 88.202 (83.830)	Top 5 Accuracy 94.196 (89.956)
+Batch Using Teacher Forcing: True
+Train Batch: [12100/12935]	Loss 1.7582 (1.4120)	Top 1 Accuracy 78.380 (83.826)	Top 5 Accuracy 85.587 (89.953)
+Batch Using Teacher Forcing: False
+Train Batch: [12200/12935]	Loss 1.6655 (1.4117)	Top 1 Accuracy 80.867 (83.831)	Top 5 Accuracy 86.480 (89.957)
+Batch Using Teacher Forcing: False
+Train Batch: [12300/12935]	Loss 1.2990 (1.4115)	Top 1 Accuracy 85.140 (83.833)	Top 5 Accuracy 92.028 (89.959)
+Batch Using Teacher Forcing: True
+Train Batch: [12400/12935]	Loss 1.1377 (1.4119)	Top 1 Accuracy 87.755 (83.827)	Top 5 Accuracy 94.260 (89.955)
+Batch Using Teacher Forcing: True
+Train Batch: [12500/12935]	Loss 1.1532 (1.4120)	Top 1 Accuracy 87.946 (83.826)	Top 5 Accuracy 93.814 (89.953)
+Batch Using Teacher Forcing: True
+Train Batch: [12600/12935]	Loss 1.2499 (1.4121)	Top 1 Accuracy 86.990 (83.824)	Top 5 Accuracy 92.411 (89.952)
+Batch Using Teacher Forcing: True
+Train Batch: [12700/12935]	Loss 1.3443 (1.4120)	Top 1 Accuracy 84.694 (83.825)	Top 5 Accuracy 91.008 (89.953)
+Batch Using Teacher Forcing: True
+Train Batch: [12800/12935]	Loss 1.6544 (1.4118)	Top 1 Accuracy 79.911 (83.828)	Top 5 Accuracy 86.161 (89.956)
+Batch Using Teacher Forcing: False
+Train Batch: [12900/12935]	Loss 1.1892 (1.4117)	Top 1 Accuracy 87.500 (83.831)	Top 5 Accuracy 93.304 (89.958)
+Batch Using Teacher Forcing: True
+Validation Batch: [0/782]	Loss 1.5421 (1.5421)	Top 1 Accuracy 80.740 (80.740)	Top 5 Accuracy 88.010 (88.010)
+Validation Batch: [100/782]	Loss 1.5797 (1.5928)	Top 1 Accuracy 80.293 (80.569)	Top 5 Accuracy 86.990 (87.261)
+Validation Batch: [200/782]	Loss 1.5478 (1.5935)	Top 1 Accuracy 81.441 (80.601)	Top 5 Accuracy 87.946 (87.287)
+Validation Batch: [300/782]	Loss 1.5823 (1.5916)	Top 1 Accuracy 80.548 (80.621)	Top 5 Accuracy 87.117 (87.303)
+Validation Batch: [400/782]	Loss 1.5529 (1.5899)	Top 1 Accuracy 81.314 (80.631)	Top 5 Accuracy 87.436 (87.310)
+Validation Batch: [500/782]	Loss 1.5388 (1.5923)	Top 1 Accuracy 81.505 (80.611)	Top 5 Accuracy 87.564 (87.289)
+Validation Batch: [600/782]	Loss 1.6681 (1.5939)	Top 1 Accuracy 80.102 (80.593)	Top 5 Accuracy 86.033 (87.255)
+Validation Batch: [700/782]	Loss 1.5510 (1.5942)	Top 1 Accuracy 81.378 (80.590)	Top 5 Accuracy 88.138 (87.252)
+Validation Epoch: 3	BLEU-1 (0.6049254551526239)	BLEU-2 (0.3701483922765033)	BLEU-3 (0.23920169336199137)	BLEU-4 (0.15159516033377676)	
