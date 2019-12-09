@@ -41,8 +41,8 @@ class COCO14Dataset(td.Dataset):
                              tv.transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
                              ])
         self.image_size = image_size
-        self.img_paths = json.load(open(data_path + '/{}_img_paths_test.json'.format(mode), 'r'))
-        self.captions = json.load(open(data_path + '/{}_captions_test.json'.format(mode), 'r'))
+        self.img_paths = json.load(open(data_path + '/{}_img_paths.json'.format(mode), 'r'))
+        self.captions = json.load(open(data_path + '/{}_captions.json'.format(mode), 'r'))
 
     def __getitem__(self, index):
         # Access the image at the corresponding location and transform it as specified
