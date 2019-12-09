@@ -6,7 +6,7 @@ This implementation has been developed by team SVT for ECE 285, Machine Learning
 2. Varad Joshi (A53272494)
 3. Sneh Shah
 
-## Requirements:  
+### Requirements:  
 
 This project does not require any special packages in addition to the ones already available on the DSMLP server. The main packages utilized in the implementation have been iterated below.
 1. torch >= 0.4.1
