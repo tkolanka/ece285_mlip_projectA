@@ -4,7 +4,7 @@ image paths and captions for training, validation and testing sets. It is also r
 for image captioning.
 '''
 
-import argparse, json
+import json
 from collections import Counter
 
 def generate_trainval_json_data(split_path, data_path, max_captions_per_image, min_word_count):
