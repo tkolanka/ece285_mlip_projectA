@@ -4,7 +4,7 @@ This is a show, attend and tell model based implementation of image captioning o
 This implementation has been developed by team SVT for ECE 285, Machine Learning for Image Processing class, Fall 2019 composed of:
 1. Tanaya Kolankari (A53265700)
 2. Varad Joshi (A53272494)
-3. Sneh Shah
+3. Sneh Shah (A53264450)
 
 ### Requirements:  
 
