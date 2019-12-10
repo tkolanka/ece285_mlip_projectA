@@ -18,10 +18,10 @@ This project does not require any special packages in addition to the ones alrea
 
 ### Code Organization:
 
-Demo.ipynb   
-Dataset_Generation.ipynb  
-Experiment_1.ipynb  
-Experiment_2.ipynb  
+Demo.ipynb                   -- Runs a demo of our implementation  
+Dataset_Generation.ipynb     -- For dataset generation and pre-processing  
+Experiment_1.ipynb           -- Runs training, validation and analysis for Experiment 1  
+Experiment_2.ipynb           -- Runs training, validation and analysis for Experiment 2
 Experiment_3.ipynb  
 Experiment_4.ipynb  
 Experiment_5.ipynb  
@@ -31,4 +31,5 @@ dataset.py
 models.py  
 experiment.py  
 utils.py  
+generate_visualization.py  
 plot.py  
