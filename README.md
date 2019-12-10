@@ -18,7 +18,7 @@ This project does not require any special packages in addition to the ones alrea
 
 ### Code Organization:
 
-Demo.ipynb                    -- Runs a demo of our implementation  
+Demo.ipynb>>>>>                    -- Runs a demo of our implementation  
 Dataset_Generation.ipynb      -- For dataset generation and pre-processing  
 Experiment_1.ipynb            -- Runs training, validation and analysis for Experiment 1  
 Experiment_2.ipynb            -- Runs training, validation and analysis for Experiment 2
